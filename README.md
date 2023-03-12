@@ -4,7 +4,7 @@ We keep track of something big in the audio domain,  including speech, singing, 
 ## Contents
 - [Prompt-based Audio Synthesis](#Prompt-based-Audio-Synthesis)
 - [Audio Language Models](#Audio-Language-Models)
-- [Audio SSL/UL models](#Audio-SSL/UL-models)
+- [Audio SSL/UL models](#Audio-SSL-and-UL-models)
 
 ### Prompt-based Audio Synthesis
 
@@ -30,7 +30,7 @@ We keep track of something big in the audio domain,  including speech, singing, 
 
 
 
-### Audio SSL/UL models
+### Audio SSL and UL models
 
 - **HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units** (2021) Wei-Ning Hsu et al. [[PDF]](https://arxiv.org/pdf/2106.07447.pdf), 
 - **wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations** (2020), Alexei Baevski et al. [[PDF]](https://arxiv.org/pdf/2006.11477.pdf)
