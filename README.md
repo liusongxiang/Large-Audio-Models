@@ -14,6 +14,7 @@ We keep track of something big in the audio domain,  including speech, singing, 
 - **VALL-E X: Speak Foreign Languages with Your Own Voice: Cross-Lingual Neural Codec Language Modeling** (2023), Ziqiang Zhang et al. [[PDF]](https://arxiv.org/pdf/2303.03926.pdf)
 - **Noise2Music: Text-conditioned Music Generation with Diffusion Models**(2023), Qingqing Huang et al. [[PDF]](https://arxiv.org/pdf/2302.03917)
 - **Spear-TTS: Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision**(2023), Eugene Kharitonov et al. [[PDF]](https://arxiv.org/abs/2302.03540)
+- **SingSong: Generating musical accompaniments from singing**(2023), Chris Donahue et al. [[PDF]](https://arxiv.org/pdf/2301.12662.pdf)
 - **MusicLM: Generating Music From Text**(2023), Andrea Agostinelli et al. [[PDF]](https://arxiv.org/pdf/2301.11325)
 - **InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt** (2023), Dongchao Yang et al. [[PDF]](https://arxiv.org/pdf/2301.13662.pdf)
 - **AudioLDM: Text-to-Audio Generation with Latent Diffusion Models**(2023), Haohe Liu et al. [[PDF]](https://arxiv.org/pdf/2301.12503)
