@@ -18,7 +18,7 @@ We keep track of something big in the audio domain,  including speech, singing, 
 
 - **MusicLM: Generating Music From Text**(2023), Andrea Agostinelli et al. [[PDF]](https://arxiv.org/pdf/2301.11325)
 
-- **InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt** (2023), Dongchao Yang et al. [[PDF] (https://arxiv.org/pdf/2301.13662.pdf)
+- **InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt** (2023), Dongchao Yang et al. [[PDF]] (https://arxiv.org/pdf/2301.13662.pdf)
 
 - **AudioLDM: Text-to-Audio Generation with Latent Diffusion Models**(2023), Haohe Liu et al. [[PDF]](https://arxiv.org/pdf/2301.12503)
 
