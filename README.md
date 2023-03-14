@@ -20,6 +20,7 @@ We keep track of something big in the audio domain,  including speech, singing, 
 - **AudioLDM: Text-to-Audio Generation with Latent Diffusion Models**(2023), Haohe Liu et al. [[PDF]](https://arxiv.org/pdf/2301.12503)
 - **Moûsai: Text-to-Music Generation with Long-Context Latent Diffusion**(2023), Flavio Schneider et al. [[PDF]](https://arxiv.org/pdf/2301.11757)
 - **Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models**(2023), Rongjie Huang et al. [[PDF]](https://text-to-audio.github.io/paper.pdf)
+- **ArchiSound: Audio Generation with Diffusion**(2023), Flavio Schneider. [[PDF]](https://arxiv.org/ftp/arxiv/papers/2301/2301.13267.pdf)
 - **VALL-E: Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers** (2023), Chengyi Wang et al. [[PDF]](https://arxiv.org/pdf/2301.02111.pdf)
 
 ### Audio Language Models
