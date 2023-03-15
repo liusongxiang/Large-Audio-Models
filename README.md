@@ -12,6 +12,7 @@ We keep track of something big in the audio domain,  including speech, singing, 
 
 - **FoundationTTS: Text-to-Speech for ASR Customization with Generative Language Model**(2023), Ruiqing Xue et al. [[PDF]](https://arxiv.org/pdf/2303.02939v3.pdf)
 - **VALL-E X: Speak Foreign Languages with Your Own Voice: Cross-Lingual Neural Codec Language Modeling** (2023), Ziqiang Zhang et al. [[PDF]](https://arxiv.org/pdf/2303.03926.pdf)
+- **ERNIE-Music: Text-to-Waveform Music Generation with Diffusion Models**(2023), Pengfei Zhu et al. [[PDF]](https://arxiv.org/pdf/2302.04456.pdf)
 - **Noise2Music: Text-conditioned Music Generation with Diffusion Models**(2023), Qingqing Huang et al. [[PDF]](https://arxiv.org/pdf/2302.03917)
 - **Spear-TTS: Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision**(2023), Eugene Kharitonov et al. [[PDF]](https://arxiv.org/abs/2302.03540)
 - **SingSong: Generating musical accompaniments from singing**(2023), Chris Donahue et al. [[PDF]](https://arxiv.org/pdf/2301.12662.pdf)
