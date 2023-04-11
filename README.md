@@ -31,7 +31,9 @@ We keep track of something big in the audio domain,  including speech, singing, 
 
 ### Audio SSL and UL models
 
-- **MuLan: A Joint Embedding of Music Audio and Natural Language** (2022) Qingqing Huang et al. [[PDF]](https://arxiv.org/pdf/2208.12415)
-- **W2v-BERT: Combining Contrastive Learning and Masked Language Modeling for Self-Supervised Speech Pre-Training** (2021) [[PDF]](https://arxiv.org/pdf/2108.06209)
-- **HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units** (2021) Wei-Ning Hsu et al. [[PDF]](https://arxiv.org/pdf/2106.07447.pdf),
+- **vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations**(2019), Alexei Baevski et al. [[PDF]](https://arxiv.org/abs/1910.05453.pdf)
 - **wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations** (2020), Alexei Baevski et al. [[PDF]](https://arxiv.org/pdf/2006.11477.pdf)
+- **W2v-BERT: Combining Contrastive Learning and Masked Language Modeling for Self-Supervised Speech Pre-Training** (2021) [[PDF]](https://arxiv.org/pdf/2108.06209.pdf)
+- **HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units** (2021) Wei-Ning Hsu et al. [[PDF]](https://arxiv.org/pdf/2106.07447.pdf)
+- **Data2vec: A general framework for self-supervised learning in speech, vision and language** (2022), Alexei Baevski et al. [[PDF]](https://arxiv.org/abs/2202.03555.pdf)
+- **MuLan: A Joint Embedding of Music Audio and Natural Language** (2022) Qingqing Huang et al. [[PDF]](https://arxiv.org/pdf/2208.12415.pdf)
