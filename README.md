@@ -40,3 +40,4 @@ We keep track of something big in the audio domain,  including speech, singing, 
 - **Data2vec: A general framework for self-supervised learning in speech, vision and language** (2022), Alexei Baevski et al. [[PDF]](https://arxiv.org/abs/2202.03555.pdf)
 - **ContentVec: An Improved Self-Supervised Speech Representation by Disentangling Speakers** (2022), Kaizhi Qian et al. [[PDF]](https://arxiv.org/pdf/2204.09224.pdf)
 - **MuLan: A Joint Embedding of Music Audio and Natural Language** (2022) Qingqing Huang et al. [[PDF]](https://arxiv.org/pdf/2208.12415.pdf)
+
