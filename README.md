@@ -29,6 +29,7 @@ We keep track of something big in the audio domain,  including speech, singing, 
 
 ### Audio Language Models
 
+- **AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head**(2023), Rongjie Huang et al. [[PDF]](https://arxiv.org/pdf/2304.12995.pdf)
 - **AudioLM: a Language Modeling Approach to Audio Generation**(2022), Zalán Borsos et al. [[PDF]](https://arxiv.org/pdf/2209.03143)
 
 ### Audio SSL and UL models
