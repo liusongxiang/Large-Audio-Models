@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+Audio Language Models	README.md	/^### Audio Language Models$/;"	S	line:30	section:Large-Audio-Models""Contents
+Audio SSL and UL models	README.md	/^### Audio SSL and UL models$/;"	S	line:34	section:Large-Audio-Models""Contents
+Contents	README.md	/^## Contents$/;"	s	line:5	chapter:Large-Audio-Models
+Large-Audio-Models	README.md	/^# Large-Audio-Models$/;"	c	line:1
+Prompt-based Audio Synthesis	README.md	/^### Prompt-based Audio Synthesis$/;"	S	line:11	section:Large-Audio-Models""Contents
