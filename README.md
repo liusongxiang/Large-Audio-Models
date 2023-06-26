@@ -13,6 +13,7 @@ We keep track of something big in the audio domain,  including speech, singing, 
 - **Diverse and Vivid Sound Generation from Text Descriptions**(2023), Guangwei Li et al. [[PDF]](https://arxiv.org/pdf/2305.01980.pdf)
 - **NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers**(2023), Kai Shen et al. [[PDF]](https://arxiv.org/pdf/2304.09116.pdf)
 - **AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models**(2023), Yuancheng Wang et al. [[PDF]](https://arxiv.org/pdf/2304.00830.pdf)
+- **Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**(2023), Kun Su et al. [[PDF]](https://arxiv.org/pdf/2303.16897.pdf)
 - **FoundationTTS: Text-to-Speech for ASR Customization with Generative Language Model**(2023), Ruiqing Xue et al. [[PDF]](https://arxiv.org/pdf/2303.02939v3.pdf)
 - **VALL-E X: Speak Foreign Languages with Your Own Voice: Cross-Lingual Neural Codec Language Modeling** (2023), Ziqiang Zhang et al. [[PDF]](https://arxiv.org/pdf/2303.03926.pdf)
 - **ERNIE-Music: Text-to-Waveform Music Generation with Diffusion Models**(2023), Pengfei Zhu et al. [[PDF]](https://arxiv.org/pdf/2302.04456.pdf)
