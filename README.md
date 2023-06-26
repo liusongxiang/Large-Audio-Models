@@ -29,6 +29,7 @@ We keep track of something big in the audio domain,  including speech, singing, 
 
 ### Audio Language Models
 
+- **Pengi: An Audio Language Model for Audio Tasks**(2023), Soham Deshmukh et al. [[PDF]](https://arxiv.org/pdf/2305.11834)
 - **AudioLM: a Language Modeling Approach to Audio Generation**(2022), Zalán Borsos et al. [[PDF]](https://arxiv.org/pdf/2209.03143)
 
 ### Audio SSL and UL models
