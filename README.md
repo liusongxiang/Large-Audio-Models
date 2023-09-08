@@ -53,7 +53,7 @@ We keep track of something big in the audio domain,  including speech, singing, 
 - **Data2vec: A general framework for self-supervised learning in speech, vision and language** (2022), Alexei Baevski et al. [[PDF]](https://arxiv.org/abs/2202.03555.pdf)
 - **MT4SSL: Boosting Self-Supervised Speech Representation Learning by Integrating Multiple Targets** (2022), Ziyang Ma et al. [[PDF]](https://arxiv.org/abs/2211.07321.pdf)
 - **ContentVec: An Improved Self-Supervised Speech Representation by Disentangling Speakers** (2022), Kaizhi Qian et al. [[PDF]](https://arxiv.org/pdf/2204.09224.pdf)
-- **Data2vec 2.0: Efficient Self-supervised Learning with Contextualized Target Representations for Vision, Speech and Language**[[PDF]](https://arxiv.org/abs/2212.07525.pdf)
+- **Data2vec 2.0: Efficient Self-supervised Learning with Contextualized Target Representations for Vision, Speech and Language** (2022), Alexei Baevski et al. [[PDF]](https://arxiv.org/abs/2212.07525.pdf)
 - **MuLan: A Joint Embedding of Music Audio and Natural Language** (2022) Qingqing Huang et al. [[PDF]](https://arxiv.org/pdf/2208.12415.pdf)
   
 
