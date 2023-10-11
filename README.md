@@ -37,6 +37,7 @@ We keep track of something big in the audio domain,  including speech, singing, 
 
 ### Audio Language Models
 
+- **UniAudio: An Audio Foundation Model Toward Universal Audio Generation**(2023), Dongchao Yang et al. [[PDF]](https://arxiv.org/pdf/2310.00704.pdf)
 - **SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models**(2023), Xin Zhang et al. [[PDF]](https://arxiv.org/pdf/2308.16692.pdf)
 - **SoundStorm: Efficient Parallel Audio Generation**(2023), Zalán Borsos et al. [[PDF]](https://arxiv.org/pdf/2305.09636.pdf)
 - **AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head**(2023), Rongjie Huang et al. [[PDF]](https://arxiv.org/pdf/2304.12995.pdf)
