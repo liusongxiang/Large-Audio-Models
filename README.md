@@ -37,6 +37,7 @@ We keep track of something big in the audio domain,  including speech, singing, 
 
 ### Audio Language Models
 
+- **Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models**(2023), Yunfei Chu et al. [[PDF]](https://arxiv.org/pdf/2311.07919v1.pdf)
 - **UniAudio: An Audio Foundation Model Toward Universal Audio Generation**(2023), Dongchao Yang et al. [[PDF]](https://arxiv.org/pdf/2310.00704.pdf)
 - **SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models**(2023), Xin Zhang et al. [[PDF]](https://arxiv.org/pdf/2308.16692.pdf)
 - **SoundStorm: Efficient Parallel Audio Generation**(2023), Zalán Borsos et al. [[PDF]](https://arxiv.org/pdf/2305.09636.pdf)
