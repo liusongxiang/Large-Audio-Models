@@ -46,6 +46,7 @@ We keep track of something big in the audio domain,  including speech, singing, 
 - **AudioPaLM: A Large Language Model That Can Speak and Listen**(2023), Paul K. Rubenstein et al. [[PDF]](https://arxiv.org/pdf/2306.12925.pdf)
 - **Pengi: An Audio Language Model for Audio Tasks**(2023), Soham Deshmukh et al. [[PDF]](https://arxiv.org/pdf/2305.11834)
 - **AudioLM: a Language Modeling Approach to Audio Generation**(2022), Zalán Borsos et al. [[PDF]](https://arxiv.org/pdf/2209.03143)
+- **NeuralSound: Learning-based Modal Sound Synthesis with Acoustic Transfer**(2021), XUTONG JIN et al. [[PDF]](https://arxiv.org/pdf/2108.07425.pdf)
 
 ### Audio SSL and UL models
 
