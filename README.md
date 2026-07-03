@@ -49,6 +49,7 @@ We keep track of something big in the audio domain,  including speech, singing, 
 
 ### Audio Language Models
 
+- **FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs**(2024), Keyu An et al. [[PDF]](https://arxiv.org/abs/2407.04051)[[Code]](https://github.com/FunAudioLLM/SenseVoice)
 - **Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models**(2023), Yunfei Chu et al. [[PDF]](https://arxiv.org/pdf/2311.07919v1.pdf)
 - **UniAudio: An Audio Foundation Model Toward Universal Audio Generation**(2023), Dongchao Yang et al. [[PDF]](https://arxiv.org/pdf/2310.00704.pdf)
 - **SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models**(2023), Xin Zhang et al. [[PDF]](https://arxiv.org/pdf/2308.16692.pdf)
