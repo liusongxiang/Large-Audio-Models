@@ -23,6 +23,7 @@ We keep track of something big in the audio domain,  including speech, singing, 
 - **M2UGen: Multi-modal Music Understanding and Generation with the Power of Large Language Models**(2023), Atin Sakkeer Hussain et al. [[PDF]](https://arxiv.org/pdf/2311.11255.pdf)
 - **SpeechX: Neural Codec Language Model as a Versatile Speech Transformer**(2023), Xiaofei Wang et al. [[PDF]](https://arxiv.org/pdf/2308.06873.pdf)
 - **TANGO: Text-to-Audio Generation using Instruction Tuned LLM and Latent Diffusion Model**(2023), Deepanway Ghosal et al. [[PDF]](https://openreview.net/pdf?id=1Sn2WqLku1e)
+- **Mustango: Toward Controllable Text-to-Music Generation**(2023), Melechovsky et al. [[PDF]](https://arxiv.org/pdf/2311.08355.pdf)
 - **Diverse and Vivid Sound Generation from Text Descriptions**(2023), Guangwei Li et al. [[PDF]](https://arxiv.org/pdf/2305.01980.pdf)
 - **NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers**(2023), Kai Shen et al. [[PDF]](https://arxiv.org/pdf/2304.09116.pdf)
 - **AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models**(2023), Yuancheng Wang et al. [[PDF]](https://arxiv.org/pdf/2304.00830.pdf)
